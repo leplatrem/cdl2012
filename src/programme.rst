@@ -7,6 +7,19 @@ Capitole du Libre
 
 Le programme sera en ligne au fur et à mesure. Vous pouvez également suivre le Capitole du Libre sur le `réseau social des conférences lanyrd <http://lanyrd.com/2012/capitole-du-libre/>`_
 
+.. role:: raw-html(raw)
+	:format: html
+
+:raw-html:`<ul class="nav nav-tabs">
+<li class="active"><a href="#samedi-24-novembre" data-toggle="tab">Samedi 24 novembre</a></li>
+<li><a href="#dimanche-25-novembre" data-toggle="tab">Dimanche 25 novembre</a></li>
+</ul>`
+
+.. class:: tab-content
+
+
+.. class:: tab-pane active
+
 Samedi 24 novembre
 .....................
 
@@ -16,6 +29,8 @@ Samedi 24 novembre
 - conférences "éclair" ou "lightning talks"
 
 Pour les conférences "éclair", un appel à conférences est ouvert ! N'hésitez pas à proposer votre conférence.
+
+.. class:: tab-pane
 
 Dimanche 25 novembre
 .....................
